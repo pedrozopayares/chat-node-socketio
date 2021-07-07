@@ -1,0 +1,8 @@
+{
+    "name": "chat-node-socket",
+    "version": "0.0.1",
+    "description": "Socket.oi application",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
